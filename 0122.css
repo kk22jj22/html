@@ -1,3 +1,4 @@
+
 .maintitle {
     border-bottom: 1px solid gray; 
     text-align: center;
@@ -23,7 +24,7 @@ a {
 
 .leftmenu2 {
     width: 15vw;
-    height: 70vh;
+    height: 60vh;
     float:left;
 
 }
@@ -49,7 +50,7 @@ a {
 .contents3 {
     border-left : 1px solid;
     width: 80vw;
-    height: 30vw;
+    height: 50vh;
     display: flex;
     justify-content: center;
     align-items: center;
